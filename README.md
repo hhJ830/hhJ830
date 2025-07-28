@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h4> 안녕하세요!! 1년차 백엔드 개발자 장현희입니다.😊
+<h4> 안녕하세요!! 백엔드 개발자 장현희입니다.😊
 
  <br>
  
